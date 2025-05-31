@@ -1,5 +1,3 @@
-# cmsc311-final-project-GameOn-
-
 # GameOn - CMSC 311 Final Project
 
 ## Project Description
