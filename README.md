@@ -20,7 +20,7 @@
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sitol2/cmsc311-final-project-GameOn-.git
+   git clone https://github.com/sitol2/cmsc311-final-project.git
 
 ## How to Use/ Run the Project
 1. Install Expo Go (SDK 49 only) in mobile phone.
